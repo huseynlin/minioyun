@@ -1,0 +1,34 @@
+C:\Users\Nicat\Desktop\C#\Breakout\bin\Debug\net8.0-windows\Breakout.exe
+C:\Users\Nicat\Desktop\C#\Breakout\bin\Debug\net8.0-windows\Breakout.deps.json
+C:\Users\Nicat\Desktop\C#\Breakout\bin\Debug\net8.0-windows\Breakout.runtimeconfig.json
+C:\Users\Nicat\Desktop\C#\Breakout\bin\Debug\net8.0-windows\Breakout.dll
+C:\Users\Nicat\Desktop\C#\Breakout\bin\Debug\net8.0-windows\Breakout.pdb
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.Form1.resources
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.Properties.Resources.resources
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.csproj.GenerateResource.cache
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.dll
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\refint\Breakout.dll
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.pdb
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\Breakout.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\C#\Breakout\obj\Debug\net8.0-windows\ref\Breakout.dll
+C:\Users\nural\Downloads\C# code\Breakout_game-main\bin\Debug\net8.0-windows\Breakout.exe
+C:\Users\nural\Downloads\C# code\Breakout_game-main\bin\Debug\net8.0-windows\Breakout.deps.json
+C:\Users\nural\Downloads\C# code\Breakout_game-main\bin\Debug\net8.0-windows\Breakout.runtimeconfig.json
+C:\Users\nural\Downloads\C# code\Breakout_game-main\bin\Debug\net8.0-windows\Breakout.dll
+C:\Users\nural\Downloads\C# code\Breakout_game-main\bin\Debug\net8.0-windows\Breakout.pdb
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.Form1.resources
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.Properties.Resources.resources
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.csproj.GenerateResource.cache
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.AssemblyInfoInputs.cache
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.AssemblyInfo.cs
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.dll
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\refint\Breakout.dll
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.pdb
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\Breakout.genruntimeconfig.cache
+C:\Users\nural\Downloads\C# code\Breakout_game-main\obj\Debug\net8.0-windows\ref\Breakout.dll
